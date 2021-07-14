@@ -5,3 +5,4 @@ Method function is "ProductPageSteps.java"
 Test runner class is "TestRunner.java"
 Page Factory object is "pomwithpf.java"
 The configuration file is "config.properties"
+The complete project files are compressed and uploaded as Sprint.rar which is completely importrable to eclipse
